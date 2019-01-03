@@ -1,6 +1,6 @@
 # Opioid Addiction Crisis in Virginia
 
-[!aa](images/choropleth_map.png)
+![aa](images/choropleth_map.png)
 
 Virginia  is  currently  under  a  public  health  emergency  as a  result  of  the  opioid  addiction  crisis.  Our  state  has  been severely impacted by opioid abuse, and the situation has been escalating  surprisingly  fast  in  recent  years.  In  1999,  the  first year for which such data is available, approximately 23 people died  from  abuse  of  prescription  opioids. However, by 2017, the  most  recent  year  for  which  complete  data is available, 1445 people died of the overdose of Fentanyl, Heroin or Prescription Opioid, an epidemic increase of roughly 6200%. Moreover,  the  data  of  2015-2017  alone,  showed  us  that there  was  a  staggering  increase  of  more  than  60%  in  death attributed  to drug overdose. Drug-related deaths have  risen unrelentingly,  and  the  drugs  kill  more  people  annually  in Virginia than either car crashes or gunfire. This situation needs to  be  controlled and  we  should  contribute  our  efforts  as community members.Our project is intended to study the drug abuse problem here in Virginia using machine learning methods, and bring awareness to this widespread public health issue by presenting a thorough analysis of the problem, and  possible solutions for different parties to reverse the epidemic of opioid drug overdose deaths and protect the public from overdose and other harms.
 
