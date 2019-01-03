@@ -14,9 +14,10 @@ This  project  examines  the  opioid  addiction  crisis  in  the state  of  Virg
 [datavizz_ver1101](https://www.dropbox.com/s/5e327w7txeuqyno/dataset_properties_1101.ipynb?dl=0)
 
 ## report:
+
 [view only^_^]: (https://www.overleaf.com/read/nfxmmbhtjngr)
 
-see it in 'report' directory.
+see it in [report](./report) directory.
 
 ## video link:
 [click me](https://youtu.be/Cq-OQ9UcBRo)
