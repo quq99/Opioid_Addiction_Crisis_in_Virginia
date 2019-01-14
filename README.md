@@ -27,4 +27,4 @@ see it in [report](./report) directory.
 
 ## Acknowledgments
 
-This work  has  been  a  part  of  the  Machine  Learning  forVirginia project at the University of Virginia in Fall 2018.We would also like to thank the Virginia Department of Healthfor providing the Virginia Opioid Dashboard Dataset.
+This work  has  been  a  part  of  the  Machine  Learning  for Virginia project at the University of Virginia in Fall 2018. We would also like to thank the Virginia Department of Health for providing the Virginia Opioid Dashboard Dataset.
